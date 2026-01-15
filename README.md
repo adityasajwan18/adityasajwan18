@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aditya Sajwan— I write code, design visuals, edit videos and build projects.<br>
+Hi, I'm Aditya Sajwan— a creative developer and designer who builds meaningful digital experiences with code, visuals, and storytelling. <br>
 
 
 ## 🌐 Socials:
