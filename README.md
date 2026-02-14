@@ -9,7 +9,6 @@ Hi, I'm Aditya Sajwan— a creative developer and designer who builds meaningful
  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=adityasajwan18&theme=github_dark" height="150" />
 
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasajwan18/adityasajwan18/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasajwan18/adityasajwan18/output/pacman-contribution-graph.svg">
